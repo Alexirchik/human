@@ -1,1 +1,9 @@
 Сравнивая ветку demo и ветку которыю я получил подмерджив в ветку master, ветки boots_buttons и hat, я понял что они ничем не отличаются.
+fix readme
+Merge branch 'buttons' into demo
+dots
+README added
+Merge branch 'boots' into release
+boots
+heat added
+init
